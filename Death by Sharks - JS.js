@@ -1,7 +1,7 @@
 var chart1 = new CanvasJS.Chart("chartContainer1", {
   animationEnabled: true,
   title: {
-    text: "Spline Area Chart"
+    text: "Cases of Shark Attacks by Hour"
   },
   axisX: {
     interval: 1,
