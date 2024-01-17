@@ -1,7 +1,7 @@
 
 # Welcome to my Data Portfolio
 
-Here you'll be able to discover example SQL queries, Excel dashboards and Tableu Visualizations united by the topic of Marine life, so have a seat and give me а minute to upload some more content. Thanks!
+Here you'll be able to discover example SQL queries, Excel dashboards and Tableau Visualizations united by the topic of Marine life, so have a seat and give me а minute to upload some more content. Thanks!
 
 Let's start simple...
 ## 👨‍💻 About Me
