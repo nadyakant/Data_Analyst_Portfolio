@@ -15,6 +15,7 @@ Let's dive into the numbers together!
 ## 🦈 Links
 - [Excel Dashboard](https://github.com/nadyakant/data-project/blob/main/Shark%20Attacks_Dash.xlsx)
 - [HTML](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20HTML.html) and [JavaScript](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20JS.js) Dashboard
+- [Jupyter Notebook Analysis (Python)]([https://github.com/nadyakant/data-project](https://github.com/nadyakant/data-project/blob/main/Shark%20Attacks(2017-2020).ipynb))
 - [...](https://github.com/nadyakant/data-project)
 
 
