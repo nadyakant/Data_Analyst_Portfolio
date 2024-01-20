@@ -28,7 +28,29 @@ This Dashboard explores data on shark attacks around the world between 1919 and 
 
 ## HTML and JavaScript Dashboard
 
-This Visualization dives a little deeper into the fatal cases of shark attacks around the world, including the fatal to non-fatal attacks ratio, number of fatal attacks by hour of the day, by year and by country.
+This Visualization dives a little into the fatal cases of shark attacks around the world, including the fatal to non-fatal attacks ratio, number of fatal attacks by hour of the day, by year and by country.
 
 ![Dashboard](https://raw.githubusercontent.com/nadyakant/data-project/main/PNGs/HTML%20and%20JS.png)
+
+
+## Jupyter Notebook Analysis - Python
+
+A deeper study of Shark Attacks around the world using Python, Pandas, Numpy and Matplotlib with Jupyter Notebook. This analysis leads to important statements on shark attack fatality, frequency of occurance by country, by year and whether the case was provoked or not. Plan of the study:
+
+I. Importing, Cleaning and Formatting Data
+
+- Importing Data
+- Joining 2 Data Frames
+- Cleaning the data frame
+- Augmenting our data with additional columns
+- Replacing NaN values with 0s
+ 
+II. Vusualization and Analysis
+
+- Fatal to Non-fatal Cases
+- Calculating new values
+- Provoked and unprovoked cases
+- Provoked and unprovoked cases
+
+
 
