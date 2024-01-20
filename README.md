@@ -52,5 +52,6 @@ II. Vusualization and Analysis
 - Provoked and unprovoked cases
 - Provoked and unprovoked cases
 
+![Jupyter](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/Jupyter%20Notebook%20and%20python.png)
 
 
