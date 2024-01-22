@@ -1,7 +1,7 @@
 
 # Welcome to my Data Portfolio
 
-Here you'll be able to discover example SQL queries, Excel dashboards and Tableau Visualizations united by the topic of Marine life, so have a seat and give me а minute to upload some more content. Thanks!
+Here you'll be able to discover Data Studies using various tools. With this project I tried to keep it simple - all in one repository, all under the umbrella of Zoology, showcasing my best of skills in as little files as possible. So have a seat and dive deep into the world of Marine life. Thanks!
 
 Let's start simple...
 ## 👨‍💻 About Me
@@ -16,6 +16,7 @@ Let's dive into the numbers together!
 - [Excel Dashboard](https://github.com/nadyakant/data-project/blob/main/Shark%20Attacks_Dash.xlsx)
 - [HTML](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20HTML.html) and [JavaScript](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20JS.js) Dashboard
 - [Jupyter Notebook Analysis - Python](https://github.com/nadyakant/data-project/blob/main/Shark%20Attacks(2017-2020).ipynb)
+- [SQL Queries](https://github.com/nadyakant/Data_Analyst_Portfolio/tree/main/SQL)
 - [...](https://github.com/nadyakant/data-project)
 
 
@@ -29,6 +30,7 @@ This Dashboard explores data on shark attacks around the world between 1919 and 
 ## HTML and JavaScript Dashboard
 
 This Visualization dives a little into the fatal cases of shark attacks around the world, including the fatal to non-fatal attacks ratio, number of fatal attacks by hour of the day, by year and by country.
+In case you don't have a console installed, please, use an online HTML, JavaScript and CSS complier such as [Codepad](https://codepad.co/playground).
 
 ![Dashboard](https://raw.githubusercontent.com/nadyakant/data-project/main/PNGs/HTML%20and%20JS.png)
 
@@ -54,4 +56,18 @@ II. Vusualization and Analysis
 
 ![Jupyter](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/Jupyter%20Notebook%20and%20python.png)
 
+
+## SQL Queries
+
+Here you will find meaningful insights on pet store sales structured as questions and answers in the form of SQL queries. 
+In case you don't have a console installed, please, use an online SQL complier such as [SQLite](https://sqliteonline.com/).
+Here's how to IMPORT the .csv file with headers:
+
+![IMPORT](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/Import%20csv%20to%20SQL%20Online.png)
+
+After IMPORTing the .csv, please, copy and paste each query individually. It should look something like this:
+
+![IMPORT](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/sql%20lite%20pet%20shop%20sales.png)
+
+Have fun calculating!
 
