@@ -1,11 +1,12 @@
 
 /*Analysis on pet products, their total sales, growth rates, contribution to the ravenue and popularity
+based on 'Pet Store Records 2020 - predict or classify' on Kaggle by Ippudkippude (Owner)
 by @nadyakant
 !Queries in this document are not for comercial use. They only serve an illustrative purpose as a portfolio project. They do NOT represent real pet store data.!
-based on 'Pet Store Records 2020 - predict or classify' on Kaggle by Ippudkippude (Owner)
-*/
 
-/*Queries: */
+
+
+--------Queries: ---------------------------------------------------*/
 
 ---
 --What is the growth rate by month of (pet)food products in 2022?
