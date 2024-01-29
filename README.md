@@ -66,6 +66,13 @@ Here's how to IMPORT the .csv file with headers:
 
 ![IMPORT](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/Import%20csv%20to%20SQL%20Online.png)
 
+Then, please, copy and paste each SQL query separately into the complier, resulting in something like this:
+
+![IMPORT](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/sql%20lite%20pet%20shop%20sales.png)
+
+And most importantly...
+Have fun calculating!
+
 
 ## Tableau Visualization
 
