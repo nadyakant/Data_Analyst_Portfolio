@@ -65,9 +65,12 @@ Here's how to IMPORT the .csv file with headers:
 
 ![IMPORT](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/Import%20csv%20to%20SQL%20Online.png)
 
-After IMPORTing the .csv, please, copy and paste each query individually. It should look something like this:
 
-![IMPORT](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/sql%20lite%20pet%20shop%20sales.png)
+## Tableau Visualization
 
-Have fun calculating!
+The [Shark Attacks by Country](https://public.tableau.com/app/profile/nadya.kant/viz/SharkAttacks1900-2020/Dashboard1) dashboard focuses on the number of accidents, whether they were provoked or unprovoked, fatal or non-fatal, what's the average age of a person being attacked and etc. By selecting a country on the responsive map, you will get results for the current region.
+
+![Dashboard](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/Shark%20Attacks%20by%20Country%20(1900%20-%202020)%20_%20Tableau%20Public.png)
+
+
 
