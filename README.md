@@ -17,6 +17,7 @@ Let's dive into the numbers together!
 - [HTML](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20HTML.html) and [JavaScript](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20JS.js) Dashboard
 - [Jupyter Notebook Analysis - Python](https://github.com/nadyakant/data-project/blob/main/Shark%20Attacks(2017-2020).ipynb)
 - [SQL Queries](https://github.com/nadyakant/Data_Analyst_Portfolio/tree/main/SQL)
+- [Tableau Dashboard](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Tableau%20-%20Shark%20Attacks%20by%20Country.md)
 - [...](https://github.com/nadyakant/data-project)
 
 
@@ -68,7 +69,7 @@ Here's how to IMPORT the .csv file with headers:
 
 ## Tableau Visualization
 
-The [Shark Attacks by Country](https://public.tableau.com/app/profile/nadya.kant/viz/SharkAttacks1900-2020/Dashboard1) dashboard focuses on the number of accidents, whether they were provoked or unprovoked, fatal or non-fatal, what's the average age of a person being attacked and etc. By selecting a country on the responsive map, you will get results for the current region.
+The [Shark Attacks by Country](https://public.tableau.com/app/profile/nadya.kant/viz/SharkAttacks1900-2020/Dashboard1) dashboard focuses on the number of accidents, whether they were provoked or unprovoked, fatal or non-fatal, what's the average age of a person being attacked and the number of cases by year. By selecting a country on the responsive map, you will get results for the current region.
 
 ![Dashboard](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/Shark%20Attacks%20by%20Country%20(1900%20-%202020)%20_%20Tableau%20Public.png)
 
