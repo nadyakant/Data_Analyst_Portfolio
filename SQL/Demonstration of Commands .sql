@@ -2,22 +2,22 @@
 **DEMONSTRATION OF COMMANDS**
 Note: These queries are demonstration only and do NOT contain any actual data. 
 
-1. Data Query Languid (DQL)
+1. Data Query Language (DQL)
 ---SELECT
 
-2. Data Manipulation Languid (DML)
+2. Data Manipulation Language (DML)
 ---INSERT ---UPDATE ---DELETE ---LOCK ---CALL
 
-3. Data Definition Languid (DDL)
+3. Data Definition Language (DDL)
 ---CREATE ---DROP ---ALTER ---TRUNCATE---RENAME
 
-4. Data Control Languid (DCL)
+4. Data Control Language (DCL)
 ---GRANT---REVOKE
 
-5. Transaction Control Languid (TCL) 
+5. Transaction Control Language (TCL) 
 ---ROLLBACK---COMMIT---SAVEPOINT---SET TRANSACTION
 
-6. Structured query languid (SQL)
+6. Structured query language (SQL)
 ---SELECT---INSERT---UPDATE---DELETE---CREATE---ALTER---DROP---JOIN---WHERE---GROUP BY
 */
 -- 1.
