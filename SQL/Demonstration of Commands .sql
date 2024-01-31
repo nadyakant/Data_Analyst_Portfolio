@@ -127,15 +127,15 @@ CREATE TABLE departments (
 
 INSERT INTO staff (id, name, department_id)
      VALUES (1, 'Pablo', 4),
-	        (2, 'Maria', 1),
-			(3, 'José', 2),
-			(4, 'Jimena', 3)
+	    (2, 'Maria', 1),
+	    (3, 'José', 2),
+	    (4, 'Jimena', 3)
 
 INSERT INTO departments (department_id, department_name)
      VALUES (1, 'IT'),
-	        (2, 'TA'),
-			(3, 'HR'),
-			(4, 'Management')
+	    (2, 'TA'),
+	    (3, 'HR'),
+	    (4, 'Management')
 			
 -- INNER JOIN:
 SELECT staff.name, departments.department_name
