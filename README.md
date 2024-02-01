@@ -75,7 +75,10 @@ And most importantly...
 Have fun calculating!
 
 - Demonstration of SQL Commands:
-This is a collection of queries that showcase the use of commands and functions in SQL. 
+This is a collection of queries that showcase the use of commands and functions in SQL.
+
+![IMPORT](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/demonstration%20of%20commands.png)
+
 
 ## Tableau Visualization
 
