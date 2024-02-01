@@ -1,6 +1,7 @@
 /*
 **DEMONSTRATION OF SQL COMMANDS**
-Note: These queries are for demonstration purposes only and do NOT contain any factual data. Please, do NOT IMPORT .csv tables, because there is sample data in the query. Thank you!
+Note: These queries are for demonstration purposes only and do NOT contain any factual data. 
+Please, do NOT IMPORT .csv tables, there is sample data in the query. Thank you!
 @nadyakant
 */
 -- 1. Data Query Language (DQL)-----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -21,9 +22,9 @@ CALL stored_procedure();
 -- 3. Data Definition Language (DDL)------------------------------------------------------------------------------------------------------------------------------------------------
 ---CREATE ---DROP ---ALTER ---TRUNCATE---RENAME
 CREATE TABLE products (
-  id INT PRIMARY KEY,
-  sales_person VARCHAR(100),
-  id INT
+   id INT PRIMARY KEY
+  ,sales_person VARCHAR(100)
+  ,id INT
 );
 
 DROP TABLE products;
@@ -66,10 +67,10 @@ DELETE FROM products WHERE sales_person = 'Fulano de Tal';
 
 --
 CREATE TABLE staff (
-  staff_id INT PRIMARY KEY,
-  name VARCHAR(100),
-  staff_id INT,
-  salary DECIMAL(10,2));
+  ,staff_id INT PRIMARY KEY
+  ,name VARCHAR(100)
+  ,staff_id INT
+  ,salary DECIMAL(10,2));
   
 --
 ALTER TABLE staff ADD COLUMN job_title VARCHAR(100);
@@ -158,16 +159,16 @@ CREATE TABLE departments (
     );
 
 INSERT INTO staff (id, name, department_id)
-         VALUES (1, 'Pablo', 4),
-	        (2, 'Maria', 1),
-		(3, 'José', 2),
-		(4, 'Jimena', 3)
+     VALUES (1, 'Pablo', 4)
+	       ,(2, 'Maria', 1)
+		   ,(3, 'José', 2)
+		   ,(4, 'Jimena', 3);
 
 INSERT INTO departments (department_id, department_name)
-         VALUES (1, 'IT'),
-	        (2, 'TA'),
-		(3, 'HR'),
-		(4, 'Management')
+      VALUES (1, 'IT')
+	       , (2, 'TA')
+			,(3, 'HR')
+			,(4, 'Management');
 			
 -- INNER JOIN:
 SELECT staff.name, departments.department_name
@@ -206,10 +207,10 @@ CREATE TABLE classroom_B01 (
 );
 
 INSERT INTO classroom_B01 (id, student_name, age, grade)
-VALUES (1, 'José', 12, 'D'),
-       (2, 'Fernanda', 11, 'B'),
-       (3, 'Alejandra', 14, 'A'),
-       (4, 'Mario', 10, 'C');
+VALUES (1, 'José', 12, 'D')
+      ,(2, 'Fernanda', 11, 'B')
+      ,(3, 'Alejandra', 14, 'A')
+      ,(4, 'Mario', 10, 'C');
 	   
 
 -- Filters:
@@ -321,6 +322,85 @@ SELECT NEXTVAL('id_generator');
 
 --
 ALTER SEQUENCE id_generator RESTART;
+
+
+--13. Window Functions-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+---OVER---PARTITION BY---ROW_NUMBER---RANK---DENSE_RANK
+
+--Creating a table:
+CREATE TABLE sales (
+       id INT PRIMARY KEY,
+	   sale_date DATE,
+       country VARCHAR(100), 
+	   product VARCHAR(100), 
+	   quantity INT, 
+	   revenue INT
+    );
+INSERT INTO sales (id, sale_date, country, product, quantity, revenue)
+     VALUES (1, '11-07-2023', 'France', 'Laptop', 1, 2000)
+	        ,(2, '05-12-2023', 'Italy', 'Mouse', 1, 75)
+			,(3, '27-03-2023', 'UK', 'Laptop', 1, 2300)
+			,(4, '01-02-2024', 'Spain', 'Monitor', 2, 1300)
+			,(5, '11-01-2024', 'Germany', 'Monitor', 1, 700);
+
+--
+SELECT sale_date,
+       country, 
+	   product, 
+	   quantity, 
+	   revenue,
+       SUM(quantity) OVER (PARTITION BY product ORDER BY product) AS total_units_sold_worldwide
+FROM   sales;
+
+-- !Note: EXTRACT won't work on SQLite and SQL Server!
+SELECT DISTINCT country,
+       EXTRACT(MONTH FROM sale_day) AS month,
+       SUM(revenue) OVER (PARTITION BY sale_month) AS total_revenue_bymonth
+       ,SUM(revenue) OVER (PARTITION BY country, sale_month) AS country_revenue_bymonth
+     ,(SUM(revenue) OVER (PARTITION BY sale_month)::decimal
+           / (SELECT COUNT(DISTINCT country) FROM sales)::decimal) AS average_month_bycountry
+        ,SUM(revenue) OVER (PARTITION BY country, sale_month) 
+		- (SUM(revenue) OVER (PARTITION BY sale_month)::decimal
+           / (SELECT COUNT(DISTINCT country) FROM sales)::decimal) AS average_gap_bycountry
+FROM sales
+WHERE extract(YEAR from sale_day) = 2023
+ORDER BY country, month
+
+-- 
+SELECT
+  product AS product_name,
+  revenue,
+  ROW_NUMBER() OVER (ORDER BY revenue DESC) AS revenue_using_row_number,
+  RANK() OVER (ORDER BY revenue DESC) AS revenue_using_rank,
+  DENSE_RANK() OVER (ORDER BY revenue DESC) AS revenue_using_dense_rank
+ FROM sales;
+
+
+--14. Subqueries-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+---SINGLE ROW---MULTIPLE ROW---NESTED---CORRELATED
+
+-- 
+SELECT product
+FROM sales
+WHERE revenue = (SELECT revenue FROM last_year_sales);
+
+--
+SELECT products
+FROM sales
+WHERE revenue IN (SELECT revenue FROM last_year_sales);
+
+--
+SELECT products
+FROM sales
+WHERE ravenue IN (SELECT ravenue FROM last_year_sales WHERE country = (SELECT country FROM sales_2010));
+
+--
+SELECT products
+FROM sales AS s
+WHERE EXISTS (SELECT ravenue FROM last_year_sales AS lys WHERE s.ravenue = lys.ravenue);
+
+
+
 
 /*
 END
