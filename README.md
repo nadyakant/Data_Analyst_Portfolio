@@ -23,22 +23,22 @@ Let's dive into the numbers together!
 
 ## Excel Dashboard
 
-This Dashboard explores data on shark attacks around the world between 1919 and 2020, including fatality rate, sum of cases by year, type of attack and frequency of occurance. It is based on Brenda Griffith's [Dataset](https://www.kaggle.com/datasets/thedevastator/global-shark-attack-incidents?select=GSAF5.xls.csv) on [Kaggle](https://www.kaggle.com/).
+This Dashboard explores data on shark attacks around the world between 1919 and 2020, including fatality rate, sum of cases by year, type of attack and frequency of occurrence. It is based on Brenda Griffith's [Dataset](https://www.kaggle.com/datasets/thedevastator/global-shark-attack-incidents?select=GSAF5.xls.csv) on [Kaggle](https://www.kaggle.com/).
 
 ![Dashboard](https://raw.githubusercontent.com/nadyakant/data-project/main/PNGs/Shark%20Attacks_Dash%20-%20Excel.png)
 
 
 ## HTML and JavaScript Dashboard
 
-This Visualization dives a little into the fatal cases of shark attacks around the world, including the fatal to non-fatal attacks ratio, number of fatal attacks by hour of the day, by year and by country.
-In case you don't have a console installed, please, use an online HTML, JavaScript and CSS complier such as [Codepad](https://codepad.co/playground).
+This Visualization dives a little into the fatal cases of shark attacks around the world, including the fatal to non-fatal attacks ratio, the number of fatal attacks by hour of the day, by year, and by country.
+In case you don't have a console installed, please, use an online HTML, JavaScript, and CSS compiler such as [Codepad](https://codepad.co/playground).
 
 ![Dashboard](https://raw.githubusercontent.com/nadyakant/data-project/main/PNGs/HTML%20and%20JS.png)
 
 
 ## Jupyter Notebook Analysis - Python
 
-A deeper study of Shark Attacks around the world using Python, Pandas, Numpy and Matplotlib with Jupyter Notebook. This analysis leads to important statements on shark attack fatality, frequency of occurance by country, by year and whether the case was provoked or not. Plan of the study:
+A deeper study of Shark Attacks around the world using Python, Pandas, Numpy, and Matplotlib with Jupyter Notebook. This analysis leads to important statements on shark attack fatality, frequency of occurrence by country, by year, and whether the case was provoked or not. Plan of the study:
 
 I. Importing, Cleaning and Formatting Data
 
@@ -60,19 +60,22 @@ II. Vusualization and Analysis
 
 ## SQL Queries
 
+- Pet Shop Sales: 
 Here you will find meaningful insights on pet store sales structured as questions and answers in the form of SQL queries. 
-In case you don't have a console installed, please, use an online SQL complier such as [SQLite](https://sqliteonline.com/).
+In case you don't have a console installed, please, use an online SQL compiler such as [SQLite](https://sqliteonline.com/).
 Here's how to IMPORT the .csv file with headers:
 
 ![IMPORT](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/Import%20csv%20to%20SQL%20Online.png)
 
-Then, please, copy and paste each SQL query separately into the complier, resulting in something like this:
+Then, please, copy and paste each SQL query separately into the compiler, resulting in something like this:
 
 ![IMPORT](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/sql%20lite%20pet%20shop%20sales.png)
 
 And most importantly...
 Have fun calculating!
 
+- Demonstration of SQL Commands:
+This is a collection of queries that showcase the use of commands and functions in SQL. 
 
 ## Tableau Visualization
 
