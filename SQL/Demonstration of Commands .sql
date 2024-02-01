@@ -400,6 +400,19 @@ FROM sales AS s
 WHERE EXISTS (SELECT ravenue FROM last_year_sales AS lys WHERE s.ravenue = lys.ravenue);
 
 
+--15. Constraints-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+---PRIMARY---FOREIGN---UNIQUE---CHECK
+
+--
+CREATE TABLE sales_2024 (
+   id datatype CONSTRAINT
+  ,country datatype CONSTRAINT
+  ,product datatype CONSTRAINT
+  ,quantity datatype CONSTRAINT
+  ,PRIMARY KEY (id)
+  ,FOREIGN KEY (country) REFERENCES sales(country)
+  ,UNIQUE (product)
+  ,CHECK (quantity > 0));
 
 
 /*
