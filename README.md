@@ -28,7 +28,7 @@ This Dashboard explores data on shark attacks around the world between 1919 and 
 ![Dashboard](https://raw.githubusercontent.com/nadyakant/data-project/main/PNGs/Shark%20Attacks_Dash%20-%20Excel.png)
 
 
-## 📁 [HTML](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20HTML.html) 📁 and 📁 [JavaScript](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20JS.js) Dashboard 📁
+## 📁 [HTML](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20HTML.html) 📁 and 📁 [JavaScript](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20JS.js) 📁 Dashboard 
 
 This Visualization dives a little into the fatal cases of shark attacks around the world, including the fatal to non-fatal attacks ratio, the number of fatal attacks by hour of the day, by year, and by country.
 In case you don't have a console installed, please, use an online HTML, JavaScript, and CSS compiler such as [Codepad](https://codepad.co/playground).
