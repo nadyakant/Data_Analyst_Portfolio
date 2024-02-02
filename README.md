@@ -18,7 +18,7 @@ Let's dive into the numbers together!
 - [Jupyter Notebook Analysis - Python](https://github.com/nadyakant/data-project/blob/main/Shark%20Attacks(2017-2020).ipynb)
 - [SQL Queries](https://github.com/nadyakant/Data_Analyst_Portfolio/tree/main/SQL)
 - [Tableau Dashboard](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Tableau%20-%20Shark%20Attacks%20by%20Country.md)
-- [...](https://github.com/nadyakant/data-project)
+- [Web Scraping]([https://github.com/nadyakant/data-project](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Web%20Scraping/Web%20Scraping.ipynb))
 
 
 ## Excel Dashboard
@@ -87,4 +87,8 @@ The [Shark Attacks by Country](https://public.tableau.com/app/profile/nadya.kant
 ![Dashboard](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/Shark%20Attacks%20by%20Country%20(1900%20-%202020)%20_%20Tableau%20Public.png)
 
 
+## Web Scraping with Jupyter Notebooks
 
+A demonstration of using Jupyter Notebooks and Python libraries to web scrape and export a .csv table on [European Countries by population (2024)](https://www.worldometers.info/population/countries-in-europe-by-population/). The visual below represents both the notebook and the exported file. 
+
+![Image](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/Web%20Scraping%20-%20Jupyter%20Notebook.png)
