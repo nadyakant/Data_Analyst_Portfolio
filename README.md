@@ -21,14 +21,14 @@ Let's dive into the numbers together!
 - [Web Scraping](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Web%20Scraping/Web%20Scraping.ipynb)
 
 
-## Excel Dashboard
+## 📁 [Excel Dashboard](https://github.com/nadyakant/data-project/blob/main/Shark%20Attacks_Dash.xlsx) 📁
 
 This Dashboard explores data on shark attacks around the world between 1919 and 2020, including fatality rate, sum of cases by year, type of attack and frequency of occurrence. It is based on Brenda Griffith's [Dataset](https://www.kaggle.com/datasets/thedevastator/global-shark-attack-incidents?select=GSAF5.xls.csv) on [Kaggle](https://www.kaggle.com/).
 
 ![Dashboard](https://raw.githubusercontent.com/nadyakant/data-project/main/PNGs/Shark%20Attacks_Dash%20-%20Excel.png)
 
 
-## HTML and JavaScript Dashboard
+## 📁 [HTML](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20HTML.html) 📁 and 📁 [JavaScript](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20JS.js) Dashboard 📁
 
 This Visualization dives a little into the fatal cases of shark attacks around the world, including the fatal to non-fatal attacks ratio, the number of fatal attacks by hour of the day, by year, and by country.
 In case you don't have a console installed, please, use an online HTML, JavaScript, and CSS compiler such as [Codepad](https://codepad.co/playground).
@@ -36,7 +36,7 @@ In case you don't have a console installed, please, use an online HTML, JavaScri
 ![Dashboard](https://raw.githubusercontent.com/nadyakant/data-project/main/PNGs/HTML%20and%20JS.png)
 
 
-## Jupyter Notebook Analysis - Python
+## 📁 [Jupyter Notebook Analysis - Python](https://github.com/nadyakant/data-project/blob/main/Shark%20Attacks(2017-2020).ipynb) 📁 
 
 A deeper study of Shark Attacks around the world using Python, Pandas, Numpy, and Matplotlib with Jupyter Notebook. This analysis leads to important statements on shark attack fatality, frequency of occurrence by country, by year, and whether the case was provoked or not. Plan of the study:
 
@@ -58,7 +58,7 @@ II. Vusualization and Analysis
 ![Jupyter](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/Jupyter%20Notebook%20and%20python.png)
 
 
-## SQL Queries
+## 📁 [SQL Queries](https://github.com/nadyakant/Data_Analyst_Portfolio/tree/main/SQL) 📁
 
 - Pet Shop Sales: 
 Here you will find meaningful insights on pet store sales structured as questions and answers in the form of SQL queries. 
@@ -80,14 +80,14 @@ This is a collection of queries that showcase the use of commands and functions 
 ![IMPORT](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/demonstration%20of%20commands.png)
 
 
-## Tableau Visualization
+## 📁 [Tableau Visualization](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Tableau%20-%20Shark%20Attacks%20by%20Country.md) 📁
 
 The [Shark Attacks by Country](https://public.tableau.com/app/profile/nadya.kant/viz/SharkAttacks1900-2020/Dashboard1) dashboard focuses on the number of accidents, whether they were provoked or unprovoked, fatal or non-fatal, what's the average age of a person being attacked and the number of cases by year. By selecting a country on the responsive map, you will get results for the current region.
 
 ![Dashboard](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/Shark%20Attacks%20by%20Country%20(1900%20-%202020)%20_%20Tableau%20Public.png)
 
 
-## Web Scraping with Jupyter Notebooks
+## 📁 [Web Scraping with Jupyter Notebooks](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Web%20Scraping/Web%20Scraping.ipynb)  📁 
 
 A demonstration of using Jupyter Notebooks and Python libraries to web scrape and export a .csv table on [European Countries by population (2024)](https://www.worldometers.info/population/countries-in-europe-by-population/). The visual below represents both the notebook and the exported file. 
 
