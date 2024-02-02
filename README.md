@@ -18,7 +18,7 @@ Let's dive into the numbers together!
 - [Jupyter Notebook Analysis - Python](https://github.com/nadyakant/data-project/blob/main/Shark%20Attacks(2017-2020).ipynb)
 - [SQL Queries](https://github.com/nadyakant/Data_Analyst_Portfolio/tree/main/SQL)
 - [Tableau Dashboard](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Tableau%20-%20Shark%20Attacks%20by%20Country.md)
-- [Web Scraping](https://github.com/nadyakant/data-project](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Web%20Scraping/Web%20Scraping.ipynb)
+- [Web Scraping](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Web%20Scraping/Web%20Scraping.ipynb)
 
 
 ## Excel Dashboard
