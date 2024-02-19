@@ -45,6 +45,7 @@ I. Importing, Cleaning and Formatting Data
 - Importing Data
 - Joining 2 Data Frames
 - Cleaning the data frame
+- Removing errors
 - Augmenting our data with additional columns
 - Replacing NaN values with 0s
  
