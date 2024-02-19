@@ -9,7 +9,7 @@ First things first...
 a Data Analyst with an artistic twist. My background in Design and KPI-based SoMe strategies brings a creative perspective to the world of Analysis and Data Visualization. My greatest passion is uncovering meaningful insights and using data-driven approaches to level up business growth. My second greatest passion is Ocean life. 
 
 🏊🏻
-Let's dive into the numbers together!
+Let's dive into analytics together!
 
 
 ## 🦈 Links
