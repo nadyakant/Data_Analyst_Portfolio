@@ -1,7 +1,7 @@
 
 # Welcome to my Data Portfolio
 
-Here you'll be able to discover Data Studies using various tools. With this project I've tried to keep it simple - all in one repository, all under the umbrella of Zoology, showcasing my best of skills in as little files as possible. So have a seat and dive deep into the world of Marine life. Thanks!
+Here you'll be able to discover Data Studies using various tools. With this project I've tried to keep it simple - all in one repository, all under the umbrella of Zoology, showcasing my best of skills in as little files as possible. So have a seat and dive deep into the world of numbers. Thanks!
 
 First things first...
 ## 👨‍💻 About Me
