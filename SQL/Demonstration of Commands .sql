@@ -11,7 +11,7 @@ SELECT sales_person, id FROM products WHERE id > 10;
 
 
 -- 2. Data Manipulation Language (DML)-----------------------------------------------------------------------------------------------------------------------------------------------
----INSERT ---UPDATE ---DELETE ---LOCK ---CALL
+---INSERT---UPDATE---DELETE---LOCK---CALL
 INSERT INTO products (sales_person, id) VALUES ('Fulano de Tal', 2);
 UPDATE products SET id = 30 WHERE sales_person = 'Fulano de Tal';
 DELETE FROM products WHERE sales_person = 'Fulano de Tal';
@@ -20,7 +20,7 @@ CALL stored_procedure();
 
 
 -- 3. Data Definition Language (DDL)------------------------------------------------------------------------------------------------------------------------------------------------
----CREATE ---DROP ---ALTER ---TRUNCATE---RENAME
+---CREATE---DROP---ALTER---TRUNCATE---RENAME
 CREATE TABLE products (
    id INT PRIMARY KEY
   ,sales_person VARCHAR(100)
