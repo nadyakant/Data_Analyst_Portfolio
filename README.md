@@ -14,6 +14,7 @@ a **Data Analyst** with an artistic twist. My background in Design and KPI-based
 My second greatest passion is Ocean life.
 > [!ABOUT]
 > Highlights information that users should take into account, even when skimming.
+
 > [!IMPORTANT]
 > Anything $\color{blue}{blue}$ is click-able 😉 
 
