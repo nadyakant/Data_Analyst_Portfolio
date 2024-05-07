@@ -5,7 +5,7 @@ Here you'll be able to discover Data Studies using various tools. With this proj
 
 First things first...
 ## 👨‍💻 About Me
-¡Hola! 
+¡Hola! \
 My name is Nadya and I am
 a Data Analyst with an artistic twist. My background in Design and KPI-based SoMe strategies brings a creative perspective to the world of Analysis and Data Visualization. My greatest passion is uncovering meaningful insights and using data-driven approaches to level up business growth. My second greatest passion is Ocean life. 
 
