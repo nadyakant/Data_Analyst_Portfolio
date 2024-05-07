@@ -15,8 +15,9 @@ My second greatest passion is Ocean life.
 
 🏊🏻 \
 **Let's dive into analytics together!** \
-+ **Anything blue is click-able 😉**
-
+```diff
+ + **Anything blue is click-able 😉**
+```
 
 ## 🦈 Links
 > - [x] [Excel Dashboard](https://github.com/nadyakant/data-project/blob/main/Shark%20Attacks_Dash.xlsx)
