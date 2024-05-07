@@ -15,9 +15,7 @@ My second greatest passion is Ocean life.
 
 🏊🏻 \
 **Let's dive into analytics together!** \
-```diff
-@@ Anything $\color{blue}{blue}$ is click-able 😉 @@
-```
+
 > [!IMPORTANT]
 > Anything $\color{blue}{blue}$ is click-able 😉
 
