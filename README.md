@@ -1,13 +1,16 @@
 
 # Welcome to my Data Portfolio
 
-Here you'll be able to discover Data Studies using various tools. With this project I've tried to keep it simple - all in one repository, all under the umbrella of Zoology, showcasing my best of skills in as little files as possible. So have a seat and dive deep into the world of numbers. Thanks!
+Here you'll be able to discover Data Studies using various tools. With this project I've tried to keep it simple - all in one repository showcasing my best of skills in as little files as possible. \
+So have a seat and dive deep into the world of numbers. \
+Thanks!
 
 First things first...
 ## 👨‍💻 About Me
 ¡Hola! \
 My name is Nadya and I am
-a Data Analyst with an artistic twist. My background in Design and KPI-based SoMe strategies brings a creative perspective to the world of Analysis and Data Visualization. My greatest passion is uncovering meaningful insights and using data-driven approaches to level up business growth. My second greatest passion is Ocean life. 
+a Data Analyst with an artistic twist. My background in Design and KPI-based SoMe strategies brings a creative perspective to the world of Analysis and Data Visualization. My greatest passion is uncovering meaningful insights and using data-driven approaches to level up business growth. \
+My second greatest passion is Ocean life. 
 
 🏊🏻 \
 Let's dive into analytics together! 
