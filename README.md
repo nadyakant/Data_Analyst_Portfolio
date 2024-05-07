@@ -1,4 +1,4 @@
-![GitHub language count](https://img.shields.io/github/languages/count/nadyakant/Data_Analyst_Portfolio)
+![GitHub language count](https://img.shields.io/github/languages/count/nadyakant/Data_Analyst_Portfolio) ![GitHub top language](https://img.shields.io/github/languages/top/nadyakant/Data_Analyst_Portfolio) ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/nadyakant/Data_Analyst_Portfolio) 
 
 # Welcome to my Data Portfolio
 
