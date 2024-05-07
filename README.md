@@ -14,7 +14,8 @@ a **Data Analyst** with an artistic twist. My background in Design and KPI-based
 My second greatest passion is Ocean life.
 
 🏊🏻 \
-**Let's dive into analytics together!**
+**Let's dive into analytics together!** \
+**+ !!!Anything blue is click-able 😉**
 
 
 ## 🦈 Links
