@@ -14,7 +14,7 @@ a **Data Analyst** with an artistic twist. My background in Design and KPI-based
 My second greatest passion is Ocean life.
 
 > [!IMPORTANT]
-> Anything $\color{blue}{blue}$ is click-able 😉 \
+> Anything $\color{blue}{blue}$ is click-able 😉 
 
 🏊🏻 \
 **Let's dive into analytics together!** 
