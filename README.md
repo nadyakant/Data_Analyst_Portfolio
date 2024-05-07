@@ -18,12 +18,12 @@ My second greatest passion is Ocean life.
 
 
 ## 🦈 Links
-> - [Excel Dashboard](https://github.com/nadyakant/data-project/blob/main/Shark%20Attacks_Dash.xlsx)
-> - [HTML](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20HTML.html) and [JavaScript](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20JS.js) Dashboard
-> - [Jupyter Notebook Analysis - Python](https://github.com/nadyakant/data-project/blob/main/Shark%20Attacks(2017-2020).ipynb)
-> - [SQL Queries](https://github.com/nadyakant/Data_Analyst_Portfolio/tree/main/SQL)
-> - [Tableau Dashboard](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Tableau%20-%20Shark%20Attacks%20by%20Country.md)
-> - [Web Scraping](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Web%20Scraping/Web%20Scraping.ipynb)
+> - [x] [Excel Dashboard](https://github.com/nadyakant/data-project/blob/main/Shark%20Attacks_Dash.xlsx)
+> - [x] [HTML](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20HTML.html) and [JavaScript](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20JS.js) Dashboard
+> - [x] [Jupyter Notebook Analysis - Python](https://github.com/nadyakant/data-project/blob/main/Shark%20Attacks(2017-2020).ipynb)
+> - [x] [SQL Queries](https://github.com/nadyakant/Data_Analyst_Portfolio/tree/main/SQL)
+> - [x] [Tableau Dashboard](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Tableau%20-%20Shark%20Attacks%20by%20Country.md)
+> - [x] [Web Scraping](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Web%20Scraping/Web%20Scraping.ipynb)
 
 
 ## 📁 [Excel Dashboard](https://github.com/nadyakant/data-project/blob/main/Shark%20Attacks_Dash.xlsx) 📁
@@ -48,18 +48,18 @@ A deeper study of **Shark Attacks worldwide using Python and libraries such as P
 
 I. Importing, Cleaning and Formatting Data
 
-> - Importing Data
-> - Joining 2 Data Frames
-> - Cleaning the data frame
-> - Removing errors
-> - Augmenting our data with additional columns
-> - Replacing NaN values with 0s
+> - [x] Importing Data
+> - [x] Joining 2 Data Frames
+> - [x] Cleaning the data frame
+> - [x] Removing errors
+> - [x] Augmenting our data with additional columns
+> - [x] Replacing NaN values with 0s
  
 II. Vusualization and Analysis
 
-> - Fatal to Non-fatal Cases
-> - Calculating new values
-> - Provoked and unprovoked cases
+> - [x] Fatal to Non-fatal Cases
+> - [x] Calculating new values
+> - [x] Provoked and unprovoked cases
 
 
 ![Jupyter](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/Jupyter%20Notebook%20and%20python.png)
@@ -67,7 +67,7 @@ II. Vusualization and Analysis
 
 ## 📁 [SQL Queries](https://github.com/nadyakant/Data_Analyst_Portfolio/tree/main/SQL) 📁
 
-> - **Pet Shop Sales:**
+> - [x] **Pet Shop Sales:**
 > Here you will find meaningful **insights on pet store sales** structured as questions and answers in the form of **SQL queries**. 
 > In case you don't have a console installed, please, use an online SQL compiler such as [SQLite](https://sqliteonline.com/). \
 
@@ -82,7 +82,7 @@ Then, please, **copy and paste each SQL query _separately_** into the compiler, 
 And most importantly... \
 **Have fun calculating!**
 
-- **Demonstration of SQL Commands:**
+> - [x] **Demonstration of SQL Commands:**
 > This is a collection of queries **showcasing the use of commands and functions in SQL.**
 
 ![IMPORT](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/demonstration%20of%20commands.png)
