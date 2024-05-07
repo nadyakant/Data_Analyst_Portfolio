@@ -12,7 +12,8 @@ First things first...
 My name is **Nadya** and I am
 a **Data Analyst** with an artistic twist. My background in Design and KPI-based SoMe strategies brings a creative perspective to the world of Analysis and Data Visualization. My greatest passion is uncovering meaningful insights and using data-driven approaches to level up business growth. \
 My second greatest passion is Ocean life.
-
+> [!ABOUT]
+> Highlights information that users should take into account, even when skimming.
 > [!IMPORTANT]
 > Anything $\color{blue}{blue}$ is click-able 😉 
 
