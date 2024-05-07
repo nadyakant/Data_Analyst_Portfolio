@@ -4,7 +4,7 @@
 
 Here you'll be able to discover **Data Studies using various tools.** With this project I've tried to keep it simple - all in one repository showcasing my best of skills in as little files as possible. \
 So have a seat and dive deep into the world of numbers. \
-Thanks! \
+Thanks! 
 
 > [!IMPORTANT]
 > Anything $\color{blue}{blue}$ is click-able 😉 
