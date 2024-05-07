@@ -19,7 +19,7 @@ My second greatest passion is Ocean life.
 @@ Anything $\color{blue}{blue}$ is click-able 😉 @@
 ```
 > [!IMPORTANT]
-> Anything blue is click-able 😉
+> Anything $\color{blue}{blue}$ is click-able 😉
 
 ## 🦈 Links
 > - [x] [Excel Dashboard](https://github.com/nadyakant/data-project/blob/main/Shark%20Attacks_Dash.xlsx)
