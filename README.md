@@ -74,7 +74,7 @@ II. Vusualization and Analysis
 
 > - [x] **Pet Shop Sales:**
 > Here you will find meaningful **insights on pet store sales** structured as questions and answers in the form of **SQL queries**. 
-> In case you don't have a console installed, please, use an online SQL compiler such as [SQLite](https://sqliteonline.com/). \
+> In case you don't have a console installed, please, use an online SQL compiler such as [SQLite](https://sqliteonline.com/). 
 
 Here's how to IMPORT the .csv file with headers:
 
