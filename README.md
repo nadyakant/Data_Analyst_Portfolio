@@ -1,3 +1,4 @@
+![GitHub language count](https://img.shields.io/github/languages/count/nadyakant/Data_Analyst_Portfolio)
 
 # Welcome to my Data Portfolio
 
