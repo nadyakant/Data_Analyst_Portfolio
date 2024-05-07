@@ -47,18 +47,18 @@ A deeper study of **Shark Attacks worldwide using Python and libraries such as P
 
 I. Importing, Cleaning and Formatting Data
 
-- Importing Data
-- Joining 2 Data Frames
-- Cleaning the data frame
-- Removing errors
-- Augmenting our data with additional columns
-- Replacing NaN values with 0s
+> - Importing Data
+> - Joining 2 Data Frames
+> - Cleaning the data frame
+> - Removing errors
+> - Augmenting our data with additional columns
+> - Replacing NaN values with 0s
  
 II. Vusualization and Analysis
 
-- Fatal to Non-fatal Cases
-- Calculating new values
-- Provoked and unprovoked cases
+> - Fatal to Non-fatal Cases
+> - Calculating new values
+> - Provoked and unprovoked cases
 
 
 ![Jupyter](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/Jupyter%20Notebook%20and%20python.png)
@@ -66,9 +66,9 @@ II. Vusualization and Analysis
 
 ## 📁 [SQL Queries](https://github.com/nadyakant/Data_Analyst_Portfolio/tree/main/SQL) 📁
 
-- **Pet Shop Sales:**
-Here you will find meaningful **insights on pet store sales** structured as questions and answers in the form of **SQL queries**. 
-In case you don't have a console installed, please, use an online SQL compiler such as [SQLite](https://sqliteonline.com/). \
+> - **Pet Shop Sales:**
+> Here you will find meaningful **insights on pet store sales** structured as questions and answers in the form of **SQL queries**. 
+> In case you don't have a console installed, please, use an online SQL compiler such as [SQLite](https://sqliteonline.com/). \
 
 Here's how to IMPORT the .csv file with headers:
 
@@ -82,7 +82,7 @@ And most importantly... \
 **Have fun calculating!**
 
 - **Demonstration of SQL Commands:**
-This is a collection of queries **showcasing the use of commands and functions in SQL.**
+> This is a collection of queries **showcasing the use of commands and functions in SQL.**
 
 ![IMPORT](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/demonstration%20of%20commands.png)
 
