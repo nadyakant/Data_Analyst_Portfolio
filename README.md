@@ -18,7 +18,7 @@ My second greatest passion is Ocean life.
 ```diff
 @@ Anything blue is click-able 😉 @@
 ```
-<font color="green"> Anything blue is click-able 😉 </font>
+$${\color{lightgreen}Anything \space blue \space is \space clickable😉}$$
 
 ## 🦈 Links
 > - [x] [Excel Dashboard](https://github.com/nadyakant/data-project/blob/main/Shark%20Attacks_Dash.xlsx)
