@@ -13,11 +13,10 @@ My name is **Nadya** and I am
 a **Data Analyst** with an artistic twist. My background in Design and KPI-based SoMe strategies brings a creative perspective to the world of Analysis and Data Visualization. My greatest passion is uncovering meaningful insights and using data-driven approaches to level up business growth. \
 My second greatest passion is Ocean life.
 
-🏊🏻 \
-**Let's dive into analytics together!** \
-
 > [!IMPORTANT]
-> Anything $\color{blue}{blue}$ is click-able 😉
+> Anything $\color{blue}{blue}$ is click-able 😉 \
+🏊🏻 \
+**Let's dive into analytics together!** 
 
 ## 🦈 Links
 > - [x] [Excel Dashboard](https://github.com/nadyakant/data-project/blob/main/Shark%20Attacks_Dash.xlsx)
