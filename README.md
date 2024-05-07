@@ -16,7 +16,7 @@ My second greatest passion is Ocean life.
 🏊🏻 \
 **Let's dive into analytics together!** \
 ```diff
- + Anything blue is click-able 😉
+@@ Anything blue is click-able 😉 @@
 ```
 
 ## 🦈 Links
