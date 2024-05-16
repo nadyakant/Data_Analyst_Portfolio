@@ -95,7 +95,7 @@ And most importantly... \
 
 ## 📁 [Tableau Visualization](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Tableau%20-%20Shark%20Attacks%20by%20Country.md) 📁
 
-The **[Shark Attacks by Country](https://public.tableau.com/app/profile/nadya.kant/viz/SharkAttacks1900-2020/Dashboard1) dashboard** focuses on the number of accidents, whether they were provoked or unprovoked, fatal or non-fatal, the average age of people being attacked and the number of cases by year. \
+The **[Shark Attacks by Country](https://public.tableau.com/app/profile/nadya.kant/viz/SharkAttacks1900-2020/Dashboard1) dashboard** focuses on the number of accidents, whether they were provoked or unprovoked, fatal or non-fatal, the average age of people being attacked and the number of cases by year. 
 > - [x] Click-able map: by selecting a country on the map, you will get results for the current region
 > - [x] Responsive text: when your country of choice is selected, the in-report copy will transform accordingly
 > - [x] Hoverable design: hover on any part of the dashboard to discover data
