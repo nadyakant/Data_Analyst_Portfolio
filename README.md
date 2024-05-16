@@ -40,7 +40,7 @@ It is based on Brenda Griffith's [Dataset](https://www.kaggle.com/datasets/thede
 
 This Visualization dives a little deeper into the **fatal cases of shark attacks around the world**, including the deadly to non-fatal attacks ratio, the number of fatal attacks by hour of the day, by year, and by country. 
 
-> [!TIP]
+> [!NOTE]
 > In case you don't have a console installed, please, use an online HTML, JavaScript, and CSS compiler such as [Codepad](https://codepad.co/playground).
 
 
