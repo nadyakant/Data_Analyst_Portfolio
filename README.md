@@ -113,7 +113,7 @@ The visual below represents both the notebook and the exported file:
 
 ***
 > [!CAUTION]
-> Seems like you have reached the end of my portfolio. I hope you enjoyed it, but also that you gained clarity about my set of skills.\
+> Seems like you have reached the end of my portfolio. I hope you enjoyed it, but also that you gained clarity about my set of skills.
 > - [x] If so, please, continue to my contacts 😉
 > - [x] If this is not the case, I've got [a little treat](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Interview%20Task.ipynb) for you
 
