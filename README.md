@@ -112,7 +112,7 @@ The visual below represents both the notebook and the exported file:
 ![Image](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/Web%20Scraping%20-%20Jupyter%20Notebook.png)
 
 ***
-## $\color{blue}{And finally, a bonus study to examine my critical thinking skills:}$
+## And finally, a bonus study to examine my critical thinking skills:
 
 ## 📁 [Hypothetical Interview Task](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Interview%20Task.ipynb)  📁 
 
