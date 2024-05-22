@@ -112,8 +112,10 @@ The visual below represents both the notebook and the exported file:
 ![Image](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/Web%20Scraping%20-%20Jupyter%20Notebook.png)
 
 ***
-## And finally, a bonus study to examine my critical thinking skills:
+> [!CAUTION]
+> Seems like you have reached the end of my portfolio. I hope you enjoyed it, but also that you gained clarity about my set of skills.
+> If so, please, continue to my contacts 😉
+> If this is not the case, I've got [a little treat](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Interview%20Task.ipynb) for you
 
-## 📁 [Hypothetical Interview Task](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Interview%20Task.ipynb)  📁 
-
-A simulation of a practical interview task, including both sides - the interviewed person and the recipient, who corrects the task. The study was done with Jupyter Notebooks using Python, numpy, pandas, and matplotlib.
+***
+## Contacts:
