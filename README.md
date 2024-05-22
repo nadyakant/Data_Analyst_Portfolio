@@ -119,3 +119,7 @@ The visual below represents both the notebook and the exported file:
 
 ***
 ## Contacts:
+
+> - [x] ✉️ E-mail: willnadyakant@gmail.com
+> - [x] 🔷 LinkedIn: [Nadya Kant](https://bg.linkedin.com/in/will-kantardzhieva)
+> - [x] ⚙️ GitHub: [@nadyakant](https://github.com/nadyakant)
