@@ -111,6 +111,10 @@ The visual below represents both the notebook and the exported file:
 
 ![Image](https://raw.githubusercontent.com/nadyakant/Data_Analyst_Portfolio/main/PNGs/Web%20Scraping%20-%20Jupyter%20Notebook.png)
 
+***
+## And finally, a bonus study to examine my critical thinking skills:
+***
+
 ## 📁 [Hypothetical Interview Task](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Interview%20Task.ipynb)  📁 
 
-A simulation of a practical interview task, including both sides - the interviewed person and the recipient, who corrects the task. 
+A simulation of a practical interview task, including both sides - the interviewed person and the recipient, who corrects the task. The study was done with Jupyter Notebooks using Python, numpy, pandas, and matplotlib.
