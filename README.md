@@ -1,5 +1,3 @@
-![GitHub language count](https://img.shields.io/github/languages/count/nadyakant/Data_Analyst_Portfolio) ![GitHub top language](https://img.shields.io/github/languages/top/nadyakant/Data_Analyst_Portfolio) ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/nadyakant/Data_Analyst_Portfolio) ![GitHub forks](https://img.shields.io/github/forks/nadyakant/Data_Analyst_Portfolio) ![GitHub Repo stars](https://img.shields.io/github/stars/nadyakant/Data_Analyst_Portfolio)
-
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
 
 # Welcome to my Data Portfolio
@@ -124,3 +122,5 @@ The visual below represents both the notebook and the exported file:
 >   ✉️ E-mail: willnadyakant@gmail.com \
 >   🔷 LinkedIn: [Nadya Kant](https://bg.linkedin.com/in/will-kantardzhieva) \
 >   ⚙️ GitHub: [@nadyakant](https://github.com/nadyakant)
+
+![GitHub language count](https://img.shields.io/github/languages/count/nadyakant/Data_Analyst_Portfolio) ![GitHub top language](https://img.shields.io/github/languages/top/nadyakant/Data_Analyst_Portfolio) ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/nadyakant/Data_Analyst_Portfolio) ![GitHub forks](https://img.shields.io/github/forks/nadyakant/Data_Analyst_Portfolio) ![GitHub Repo stars](https://img.shields.io/github/stars/nadyakant/Data_Analyst_Portfolio)
