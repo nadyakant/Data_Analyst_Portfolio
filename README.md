@@ -1,5 +1,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/nadyakant/Data_Analyst_Portfolio) ![GitHub top language](https://img.shields.io/github/languages/top/nadyakant/Data_Analyst_Portfolio) ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/nadyakant/Data_Analyst_Portfolio) ![GitHub forks](https://img.shields.io/github/forks/nadyakant/Data_Analyst_Portfolio) ![GitHub Repo stars](https://img.shields.io/github/stars/nadyakant/Data_Analyst_Portfolio)
 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 # Welcome to my Data Portfolio
 
 Here you'll be able to discover **Data Studies using various tools.** With this project I've tried to keep it simple - all in one repository showcasing my best of skills in as little files as possible. \
