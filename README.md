@@ -42,7 +42,7 @@ It is based on Brenda Griffith's [Dataset](https://www.kaggle.com/datasets/thede
 This Visualization dives a little deeper into the **fatal cases of shark attacks around the world**, including the deadly to non-fatal attacks ratio, the number of fatal attacks by hour of the day, by year, and by country. 
 
 > [!WARNING]
-> In case you don't have a console installed, please, use an online HTML, JavaScript, and CSS compiler such as [Codepad](https://codepad.co/playground). Just copy the [HTML](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20HTML.html) and [JavaScript](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20JS.js) and paste them in Codepad, and you're ready to go! 
+> In case you don't have a console installed, please, use an online HTML, JavaScript, and CSS compiler such as [Codepad](https://codepad.co/playground). Just copy the [HTML](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20HTML.html) and [JavaScript](https://github.com/nadyakant/data-project/blob/main/Death%20by%20Sharks%20-%20JS.js), paste them in Codepad, and you're ready to go! 
 
 
 ![Dashboard](https://raw.githubusercontent.com/nadyakant/data-project/main/PNGs/HTML%20and%20JS.png)
