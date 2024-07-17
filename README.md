@@ -119,7 +119,7 @@ The visual below represents both the notebook and the exported file:
 
 ***
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&letterSpacing=%2B1&duration=4000&pause=1000&color=f3fefe&random=false&width=435&lines=Thank+You+For+Your+Time+%3A])](https://git.io/typing-svg) \
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=15&letterSpacing=%2B1&duration=4000&pause=1000&color=f3fefe&random=false&width=435&lines=If+like+what+you+see,+contact+me!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=20&letterSpacing=%2B1&duration=4000&pause=1000&color=f3fefe&random=false&width=435&lines=If+like+what+you+see,+contact+me!)](https://git.io/typing-svg)
 
 ## Contacts:
 
