@@ -118,8 +118,8 @@ The visual below represents both the notebook and the exported file:
 > - [x] If there's more of me you'd like to see, I've got [a little treat](https://github.com/nadyakant/Data_Analyst_Portfolio/blob/main/Interview%20Task.ipynb) for you
 
 ***
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&letterSpacing=%2B1&duration=4000&pause=1000&color=5EF7F5&random=false&width=435&lines=Hello%2C+World!+Thank+You+For+Your+Time+%3A])](https://git.io/typing-svg)
-***
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&letterSpacing=%2B1&duration=4000&pause=1000&color=5EF7F5&random=false&width=435&lines=Thank+You+For+Your+Time+%3A])](https://git.io/typing-svg)
+\
 ## Contacts:
 
 >   🔷 LinkedIn: [Nadya Kant](https://bg.linkedin.com/in/will-kantardzhieva) \
