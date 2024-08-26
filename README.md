@@ -14,7 +14,7 @@ First things first...
 ## 👨‍💻 About Me
 ¡Hola! \
 My name is **Nadya** and I love
- **Data**. My background in Design and KPI-based SoMe strategies brings a creative perspective to the Analytics and Data Visualization world. My greatest passion is uncovering meaningful insights and using data-driven approaches to maximize business marketing growth and level up company identities accordingly. \
+ **Data**. My background in design and KPI-based SoMe strategies brings a creative perspective to the world of analytics and data visualization. My greatest passion is uncovering meaningful insights and using data-driven approaches to maximize business marketing growth and level up company identities accordingly. \
 My second greatest passion is Ocean life.
 
 🏊🏻 \
