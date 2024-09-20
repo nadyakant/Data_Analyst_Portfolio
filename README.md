@@ -1,5 +1,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
 
+
 # Welcome to my Data Portfolio
 
 Here you'll be able to discover **Data Studies using various tools.** With this project I've tried to keep it simple - all in one repository showcasing my best of skills in as little files as possible. \
@@ -119,6 +120,7 @@ The visual below represents both the notebook and the exported file:
 ***
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&letterSpacing=%2B1&duration=4000&pause=1000&color=f3fefe&random=false&width=435&lines=Thank+You+For+Your+Time+%3A])](https://git.io/typing-svg) \
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=20&letterSpacing=%2B1&duration=4000&pause=1000&color=f3fefe&random=false&width=435&lines=If+like+what+you+see,+contact+me!)](https://git.io/typing-svg)
+
 
 ## Contacts:
 
