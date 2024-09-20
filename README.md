@@ -7,6 +7,7 @@ Here you'll be able to discover **Data Studies using various tools.** With this 
 So have a seat and dive deep into the world of numbers. \
 Thanks! 
 
+
 > [!CAUTION]
 > Anything $\color{blue}{BLUE}$ is click-able 😉 
 
