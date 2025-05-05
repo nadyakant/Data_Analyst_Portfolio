@@ -8,6 +8,7 @@ So have a seat and dive deep into the world of numbers. \
 Thanks! 
 
 
+
 > [!CAUTION]
 > Anything $\color{blue}{BLUE}$ is click-able 😉 
 
